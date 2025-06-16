@@ -1,8 +1,3 @@
-Sure! Here's a well-formatted `README.md` for your **Python File Organizer & Sorter** project:
-
----
-
-````markdown
 # 📁 Python File Organizer & Sorter
 
 The **Python File Organizer & Sorter** is a command-line tool that helps declutter and organize your files with ease. It scans a specified directory and automatically moves files into categorized subfolders based on their file extensions—making your digital life a lot cleaner!
@@ -136,7 +131,3 @@ Happy organizing! 🧹📂
 
 ```
 
----
-
-Let me know if you'd like the actual code snippet embedded inside the README or want me to generate a `requirements.txt` (though it's not needed for this basic script).
-```
