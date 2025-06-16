@@ -128,6 +128,3 @@ Thanks to the Python standard library for making scripting easy and powerful!
 ---
 
 Happy organizing! 🧹📂
-
-```
-
